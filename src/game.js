@@ -9,7 +9,7 @@ game.state.add('play', {
         skeletonSprite.anchor.setTo(0.5, 0.5);
     },
     render: function() {
-        game.debug.text('Adventure Awaits!', 250, 290);
+        game.debug.text('NBA Clicker 2016/17', 250, 290);
     }
 });
 
